@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
-# Script para generar un archivo Markdown con la bitácora de computación
 
-bitacora_md = """\
-# 📘 Bitácora de Computación
+#Solucion e investigacion de la actividad 1 **"Que es un computador"**
 
 ## 1. ¿Qué es un computador?
 Un **computador** es que ejuecuta una serie de comandos para procesar datos de entrada y de salida. Se utilizada para la elaboracion de documentos, la comunicacion de personas a lo largo del mundo, creacion de presupuestos, jugar y navegar en internet.
@@ -27,6 +24,8 @@ La **arquitectura de un computador** se refiere al diseño y estructura interna 
 ## 3. ¿Qué es el hardware?
 El **hardware** es el conjunto de componentes físicos de un computador, el cual incluye circuitos, cables, etc.
 
+![hardware](https://muyeducativo.com/wp-content/uploads/2018/01/cpu-images-min_opt.jpg)
+
 ### 3.1. CPU (Unidad Central de Procesamiento)
 **componente principal de un computador el cual se encarga de la realizacion de operaciones aritmeticas,logicas y de control.** La unidad central cuenta con: 
 
@@ -35,11 +34,15 @@ El **hardware** es el conjunto de componentes físicos de un computador, el cual
 - **Registros:** Pequeñas memorias internas de la CPU para almacenar datos temporales.
 - **Buses:** Canales que transportan datos entre la CPU y otros componentes.
 
+![CPU](https://concepto.de/wp-content/uploads/2014/08/CPU-e1551228076500.jpg)
+
 ### 3.2. GPU (Unidad de Procesamiento Gráfico)
 **La GPU** es un circuito especializado y diseñado para acelerar la acelelarion de graficos e imagmes de la salidad de video. En pocas palabras es la que ayuda a dar imagen en un computador
 
 - Diseñada para realizar cálculos en paralelo.
 - Comparación con la CPU: La **GPU** está optimizada para gráficos y cálculos masivos, mientras que la **CPU** maneja tareas generales.
+
+![GPU](https://es.digitaltrends.com/wp-content/uploads/2021/08/gpu-neon-lights.jpg?fit=720%2C720&p=1)
 
 ### 3.3. Memoria
 
@@ -106,6 +109,6 @@ El **software** es el conjunto de programas y sistemas que permiten el funcionam
 3. https://global.tiffin.edu/blog/que-es-arquitectura-de-computadoras
 
 ## 📍 Mapa Conceptual:
-    A continuacion se muetsra el mapa conceptual 
-- [mapa mental](link)
+    A continuacion se muestra el mapa conceptual 
+- [mapa mental](./imagenes/Mapa_Mental.png)
 
