@@ -110,5 +110,5 @@ El **software** es el conjunto de programas y sistemas que permiten el funcionam
 
 ## 📍 Mapa Conceptual:
     A continuacion se muestra el mapa conceptual 
-- [mapa mental](./imagenes/Mapa_Mental.png)
+- ![mapa mental](../imagenes/Mapa_Mental.png)
 
