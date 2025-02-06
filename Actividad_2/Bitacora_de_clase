@@ -48,3 +48,27 @@ Conversión de binario a decimal:
 - 100100100₂ = (1×2⁸) + (0×2⁷) + (0×2⁶) + (1×2⁵) + (0×2⁴) + (0×2³) + (1×2²) + (0×2¹) + (0×2⁰) **Resultado: 292**
 
 
+
+
+
+
+
+
+
+# Actividad de Investigacion 
+
+## Tipos de Datos en Diferentes Lenguajes de Programación
+
+### **1. Lenguaje C**  
+| Tipo de Dato  | Descripción | Tamaño Aprox. |  
+|--------------|-------------|--------------|
+| `int`       | Números enteros | 4 bytes |
+| `short`     | Enteros cortos | 2 bytes |
+| `long`      | Enteros largos | 4-8 bytes |
+| `long long` | Enteros muy largos | 8 bytes |
+| `float`     | Números con decimales | 4 bytes |
+| `double`    | Mayor precisión decimal | 8 bytes |
+| `long double` | Precisión extra en decimales | Variable |
+| `char`      | Un solo carácter | 1 byte |
+| `bool`      | Booleano (`true` o `false`, desde C99) | 1 byte |
+
