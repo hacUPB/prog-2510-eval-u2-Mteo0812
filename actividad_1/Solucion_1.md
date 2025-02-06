@@ -45,6 +45,7 @@ El **hardware** es el conjunto de componentes físicos de un computador, el cual
 ![GPU](https://es.digitaltrends.com/wp-content/uploads/2021/08/gpu-neon-lights.jpg?fit=720%2C720&p=1)
 
 ### 3.3. Memoria
+Es el componente que permite al usuario acceder a los datos de su computadora que se guardan a corto plazo y esta memoria se compone de lo siguiuente 
 
 - **Registros:** Memoria ultrarrápida dentro de la CPU.
 - **Caché:** Memoria intermedia entre la RAM y la CPU.
@@ -52,7 +53,8 @@ El **hardware** es el conjunto de componentes físicos de un computador, el cual
 - **Secundaria:** Dispositivos de almacenamiento como HDD y SSD.
 
 ## 4. Dispositivos de Entrada/Salida
-Son componentes que permiten la entrada de datos a la computadora 
+Son componentes que permiten la entrada de datos a la computadora por lo general son los encargados de codificar la comunicacion entre perifericos por ejemplo: 
+
 - **Entrada:** Teclado, mouse, escáner.
 - **Salida:** Monitor, impresora, altavoces.
 - **Entrada/Salida:** Dispositivos como pantallas táctiles y memorias USB.
@@ -66,7 +68,7 @@ Los **buses de datos** transportan información dentro del sistema:
 - **Bus de control:** Coordina las operaciones entre componentes.
 
 ## 6. ¿Qué es el software?
-El **software** es el conjunto de programas y sistemas que permiten el funcionamiento de un computador.
+El **software** es el conjunto de programas y sistemas que permiten el funcionamiento de un computador. Son procedimientos, reglas, documentacio y datos asociados, que forman parte de las operaciones de un sistema de computacion 
 
 ### 6.1. Software de Sistema
 - Permite la comunicación entre el hardware y las aplicaciones.
@@ -81,22 +83,30 @@ El **software** es el conjunto de programas y sistemas que permiten el funcionam
 - Ejemplo: **Compiladores, entornos de desarrollo (Eclipse, VS Code).**
 
 ## 7. Funcionamiento del Computador
+Se basa en la captura de datos que se van procesar por medio de alguna unidad centrada, en la ejecucion de un programa donde se transforman los datos y los resultados, tambien va en la comunicacion de estos datos.
 
 ### 7.1. Procesos al Encender un Computador
+En este proceso de conoce como *Arranque* donde el sistema configura todos los dipositivos que se encuentran asociados al computador y se da por medio de:
+
 1. **BIOS/UEFI** inicia el sistema.
 2. **Chequeo de hardware (POST).**
 3. **Carga del sistema operativo.**
 
 ### 7.2. Flujo de Datos desde Entrada hasta la Salida
+Las entradas son los datos suministrados, el proceso involucra transformaciones y operaciones, y las salidas son los resultados obtenidos. Este modelo es útil para analizar, diseñar y optimizar sistemas en diversos campos.
+
 1. Usuario ingresa datos mediante teclado o mouse.
 2. CPU procesa la información.
 3. GPU representa datos gráficos en la pantalla.
 
 ### 7.3. Codificación de Datos en el Computador
+Es el proceso mediante el cual se convierte la informacion de un formato legible por un ordenador para su almacenamiento y procesamiento.
 - Se representan en **binario (0s y 1s).**
 - ASCII y Unicode son estándares de codificación.
 
 ### 7.4. Unidades de Medida de Datos
+Son unidades de medida confiables, donde en el caso de las computadores es un tipo de tecnologia que se encarga de alamacenar los datos de las aplicaciones y los archivos almacenados en la computadora los cuales son:
+
 - **Bit:** Unidad mínima de información.
 - **Byte (B):** Conjunto de 8 bits.
 - **Kilobyte (KB) = 1024 B**.
@@ -110,5 +120,5 @@ El **software** es el conjunto de programas y sistemas que permiten el funcionam
 
 ## 📍 Mapa Conceptual:
     A continuacion se muestra el mapa conceptual 
-- ![mapa mental](../imagenes/Mapa_Mental.png)
+- ![mapa mental](../Imagenes/Mapa_Mental.png)
 
