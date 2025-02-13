@@ -1,0 +1,71 @@
+# Solucion de la Actividad
+
+## 1. **Representacion de datos en una computadora**
+
+Los datos se pueden representar en diferentes codigos, en las computadoras se representan mediante *codigos binarios*, lo que se conoce como secuencias de 0s y 1s, esos valores corresponden a los estadosdaos de encendidos y apagados de circuitos electronicos.
+
+![imagen binario](../Imagenes/Binario.png)
+
+### Representacion de numeros
+los numeros se representan o se codifican en binario, usando sistemas como el complemento a dos para la represnetacion de valores negativos
+
+### Representacion de letras
+Para representar letras y carracteres estos se convierten en codigos como **ASCII** (sistema de codificacion que asigna un valor nuemrico unico a diferentes caracteres) o **Unicode** el cual es utiizado para formatos de texto y tambien asigan un unico numero a cada caracter.
+
+### Representacion de imagenes
+las imagenes se almacen en matrices de pixeles, donde el pixel tienen los valores RGB codificados en codigo binario y se tiene en cuenta que cualquier dato de un omputadora seimpre se almacena y se encuentra en bits.
+
+### 2. Conclusion sobre la figura 2
+
+El número de estados diferentes que pueden ser representados por N variables binarias se calcula con la fórmula 2^N, por lo tanto con cada bit adcional se duplica el numero de combinaciones posibles, esto es fundamnetal en el diseño de las computadoras, porque permite manejar o ir desde caracteres hasta imagenes y videos.
+
+### 3. Unidades de almacenamiento de datos
+
+| Unidad     |Abreviación | Equivalencia         |
+|------------|------------|----------------------|
+| Byte       | B          | 8 bits               |
+| Kilobyte   | KB         | 1,024 Bytes          |
+| Megabyte   | MB         | 1,024 KB             |
+| Gigabyte   | GB         | 1,024 MB             |
+| Terabyte   | TB         | 1,024 GB             |
+| Petabyte   | PB         | 1,024 TB             |
+| Exabyte    | EB         | 1,024 PB             |
+
+### 4. Importacia del trabjo de george boole
+El matemático George Boole desarrolló el álgebra booleana, la base de la lógica binaria utilizada en computación. Su trabajo permitió la creación de circuitos lógicos en computadoras modernas, facilitando operaciones esenciales como sumas, restas y comparaciones mediante puertas lógicas (AND, OR, NOT).
+
+# Ejercicio 2 - Resuelve
+Conversión de binario a decimal:
+
+- 1010101010₂ = (1×2⁹) + (0×2⁸) + (1×2⁷) + (0×2⁶) + (1×2⁵) + (0×2⁴) + (1×2³) + (0×2²) + (1×2¹) + (0×2⁰) **Resultado: 682**
+
+- 11111₂ = (1×2⁴) + (1×2³) + (1×2²) + (1×2¹) + (1×2⁰) **Resultado: 31**
+
+- 10000000₂ = (1×2⁷) + (0×2⁶) + (0×2⁵) + (0×2⁴) + (0×2³) + (0×2²) + (0×2¹) + (0×2⁰) **Resultado: 128**
+
+- 100100100₂ = (1×2⁸) + (0×2⁷) + (0×2⁶) + (1×2⁵) + (0×2⁴) + (0×2³) + (1×2²) + (0×2¹) + (0×2⁰) **Resultado: 292**
+
+
+
+
+
+
+
+
+
+# Actividad de Investigacion
+
+## Tipos de Datos en Diferentes Lenguajes de Programación
+
+### **1. Lenguaje C**
+| Tipo de Dato  | Descripción | Tamaño Aprox. |
+|--------------|-------------|--------------|
+| int       | Números enteros | 4 bytes |
+| short     | Enteros cortos | 2 bytes |
+| long      | Enteros largos | 4-8 bytes |
+| long long | Enteros muy largos | 8 bytes |
+| float     | Números con decimales | 4 bytes |
+| double    | Mayor precisión decimal | 8 bytes |
+| long double | Precisión extra en decimales | Variable |
+| char      | Un solo carácter | 1 byte |
+| bool      | Booleano (true o false, desde C99) | 1 byte |
