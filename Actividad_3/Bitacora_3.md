@@ -44,7 +44,7 @@ Realice un algoritmo para determinar cuánto se debe pagar por equis cantidad de
 - FIN 
 
 ### Diagrama de Flujo 
- ![Imagen diagrama](../Imagenes/Diagrama_flujo1.png)
+ ![Imagen diagrama](../Imagenes/Diagrama_Flujo1.png)
 
 ## Ejercicio 2
 
@@ -81,3 +81,16 @@ INICIO
         precio= 95
     sino 
     precio = 4000/alumnos 
+
+
+## Ejercicios propuestos 
+
+1. Un profesor tiene un salario inicial de $1500, y recibe un incremento de 10% anual durante 6 años. ¿Qué salario ha recibido en cada uno de los 6 años?. Realice el algoritmo y represente la solucion mediante el diagrama de flujo, el pseudocodigo y el diagrama N/S, utilizando el ciclo apropiado. 
+
+### Pseudocodigo 
+INICIO
+    salario inicial = $1500
+    incremeto = 0.10
+    salario con incremento + salario inicial 
+
+
