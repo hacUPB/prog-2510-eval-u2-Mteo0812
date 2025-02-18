@@ -1,5 +1,5 @@
 
-#Solucion e investigacion de la actividad 1 **"Que es un computador"**
+# Solucion e investigacion de la actividad 1 **"Que es un computador"**
 
 ## 1. ¿Qué es un computador?
 Un **computador** es que ejuecuta una serie de comandos para procesar datos de entrada y de salida. Se utilizada para la elaboracion de documentos, la comunicacion de personas a lo largo del mundo, creacion de presupuestos, jugar y navegar en internet.
@@ -120,5 +120,6 @@ Son unidades de medida confiables, donde en el caso de las computadores es un ti
 
 ## 📍 Mapa Conceptual:
     A continuacion se muestra el mapa conceptual 
-- ![mapa mental](../Imagenes/Mapa_Mental.png)
+                
+                ![mapa mental](../Imagenes/Mapa_Mental.png)
 
