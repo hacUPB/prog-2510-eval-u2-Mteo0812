@@ -120,6 +120,5 @@ Son unidades de medida confiables, donde en el caso de las computadores es un ti
 
 ## 📍 Mapa Conceptual:
     A continuacion se muestra el mapa conceptual 
-                
-                ![mapa mental](../Imagenes/Mapa_Mental.png)
+ - ![mapa mental](../Imagenes/Mapa_Mental.png)
 
