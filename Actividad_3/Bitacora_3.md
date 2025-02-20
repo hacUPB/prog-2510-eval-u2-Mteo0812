@@ -2,7 +2,7 @@
 # BITACORA DE CLASE/ Actividad 3
 
 
-## ¿que es un diagrama de flujo
+##  ¿Que es un diagrama de flujo?
 
 Los diagramas de flujo son herramientas visuales que emplean una variedad de símbolos estandarizados para representar las diferentes operaciones y pasos en un algoritmo o proceso. A continuación, se detallan los símbolos más comunes y su significado:
 
@@ -69,11 +69,11 @@ El director de una escuela está organizando un viaje de estudios, y requiere de
 
 ### Pseudocodigo 
 
-INICIO
+- INICIO
     Escribir "Ingrese la cantidad de alumnos."
-    leer cantidad
+    -leer cantidad
 
-    Si cantidad >= 100
+     Si cantidad >= 100
         Precio = 65 
     Sino si cantidad > 50 
         precio = 70
@@ -92,5 +92,53 @@ INICIO
     salario inicial = $1500
     incremeto = 0.10
     salario con incremento + salario inicial 
+- Para año = 1 hasta 6 hacer 
+    Escribir "año" año, ": $", salario 
+    salario = salario * 0.10 // Incremento del 10%
+- fin 
 
 
+
+
+
+4. Solicitar al usuario 2 números enteros, imprimir en pantalla los numeros pares comprendidos entre ellos:
+
+**Pseudocodigo:**
+INICIO
+-	Ingresar “primer número entero”
+	Leer num1
+-	Ingresar “segundo número entero”
+	Leer num2
+- Asegurar que num1 sea menor que num2 
+    Si num1 > num2
+	    Mayor = num1
+	    Menor = num2
+    Si no 
+	    Mayor = num2
+	    Menor = num1 
+- Fin si 
+	Mientras menor < mayor 
+		Si residuo (menor, 2) =0 // si menor es par 
+			Escribir menor 
+	Fin si 
+		Menor = menor +1
+	Fin mientras 
+- Fin 
+
+
+5. Serie de fibonacci. algoritmo, ¿Cuántos números de la serie desea imprimir?
+
+INICIO 
+- Leer n
+    a = 0
+    b = 1
+- Escribir a, b 
+ n= n - 2
+- Mientras n > 0
+    res = a + b
+- Escribir 
+    a = b
+    b = res
+    n = n - 1
+    Fin mientras 
+FN
