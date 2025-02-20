@@ -4,7 +4,7 @@
 
 Los datos se pueden representar en diferentes codigos, en las computadoras se representan mediante *codigos binarios*, lo que se conoce como secuencias de 0s y 1s, esos valores corresponden a los estadosdaos de encendidos y apagados de circuitos electronicos.
 
-![imagen binario](../Imagenes/Binario.png)
+![imagen binario](../Imagenes/Binario.jpg)
 
 ### Representacion de numeros
 los numeros se representan o se codifican en binario, usando sistemas como el complemento a dos para la represnetacion de valores negativos
