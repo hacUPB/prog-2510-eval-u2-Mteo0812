@@ -70,6 +70,8 @@ Los **buses de datos** transportan información dentro del sistema:
 ## 6. ¿Qué es el software?
 El **software** es el conjunto de programas y sistemas que permiten el funcionamiento de un computador. Son procedimientos, reglas, documentacio y datos asociados, que forman parte de las operaciones de un sistema de computacion 
 
+![Software](https://neosystems.es/wp-content/uploads/2022/07/softw3-1024x768.jpg)
+
 ### 6.1. Software de Sistema
 - Permite la comunicación entre el hardware y las aplicaciones.
 - Ejemplo: **Sistemas operativos (Windows, Linux, macOS).**
@@ -119,6 +121,6 @@ Son unidades de medida confiables, donde en el caso de las computadores es un ti
 3. https://global.tiffin.edu/blog/que-es-arquitectura-de-computadoras
 
 ## 📍 Mapa Conceptual:
-    A continuacion se muestra el mapa conceptual 
+A continuacion se muestra el mapa conceptual 
  - ![mapa mental](../Imagenes/Mapa_Mental.png)
 
